@@ -1,0 +1,30 @@
+{
+  "name": "strapi-plugin-bible-verse",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "bible-verse",
+    "icon": "plug",
+    "description": "Description of bible-verse plugin."
+  },
+  "dependencies": {
+    "chapter-and-verse": "^3.0.4"
+  },
+  "author": {
+    "name": "Busola Okeowo",
+    "email": "busolaokemoney@gmail.com",
+    "url": "https://shewritescode.github.io"
+  },
+  "maintainers": [
+    {
+      "name": "Busola Okeowo",
+      "email": "busolaokemoney@gmail.com",
+      "url": "https://shewritescode.github.io"
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
